@@ -1,0 +1,6 @@
+Mary,60,50
+John,55,55
+Peter,40,44
+Paul,30,50
+Jack,10,10
+Harsh,20,54
